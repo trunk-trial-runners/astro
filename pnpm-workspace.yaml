@@ -118,3 +118,4 @@ allowBuilds:
 patchedDependencies:
   '@volar/language-service@2.4.31': patches/@volar__language-service@2.4.31.patch
   '@volar/typescript@2.4.31': patches/@volar__typescript@2.4.31.patch
+# trial baseline
